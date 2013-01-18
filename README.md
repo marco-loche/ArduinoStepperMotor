@@ -7,6 +7,6 @@ Show running version 1 [YoutubVersion1](http://www.youtube.com/watch?v=n3piOMCQx
 
 ### Components ### 
 
-Arduino UNO
-Stepper Motor 28BYJ-48
-SevenSegment Display 
+* Arduino UNO
+* Stepper Motor 28BYJ-48
+* SevenSegment Display 
