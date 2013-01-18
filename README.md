@@ -3,7 +3,7 @@
 ## Stepepr Motor Hacking projet. Arduino
 
 ### Video
-Show running version 1 [YoutubVersion1](http://www.youtube.com/watch?v=n3piOMCQxkA "StepperMotor with SevenSegment")
+Show running version 1 [StepperMotor with SevenSegment](http://www.youtube.com/watch?v=n3piOMCQxkA "StepperMotor with SevenSegment")
 
 ### Components
 
